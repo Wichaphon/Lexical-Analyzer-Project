@@ -1,0 +1,16 @@
+if (x1 >= 100) then
+    print "programming languages";
+else
+    x1 = x1 + 5;
+endif
+
+while (count < 10) do
+    count = count + 1;
+    /* This is a block comment */
+endwhile
+
+// Single-line comment
+read x1;
+newline
+abc_123 = x1 + y2;
+@invalid_token
